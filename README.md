@@ -29,8 +29,12 @@ Want to know more? Explore my pinned repositories 👇
 
 ### 🐍 Contribution Graph
 
-<div>
-  <img src="https://raw.githubusercontent.com/chocodabeo/chocodabeo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chocodabeo/chocodabeo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chocodabeo/chocodabeo/output/github-contribution-grid-snake.svg">
+    <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
